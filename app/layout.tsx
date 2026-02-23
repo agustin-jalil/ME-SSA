@@ -16,23 +16,23 @@ const _playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: 'La Casa del Sabor | Restaurante',
   description: 'Descubre nuestra carta con lo mejor de la gastronomia mexicana e internacional. Ingredientes frescos, recetas con alma.',
-  generator: 'v0.app',
+  generator: '',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
+        url: '',
+        media: '',
       },
       {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
+        url: '',
+        media: '',
       },
       {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
+        url: '',
+        type: '',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '',
   },
 }
 
