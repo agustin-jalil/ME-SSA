@@ -5,7 +5,7 @@ export function VideoBackground() {
     <div className="fixed inset-0 z-0" aria-hidden="true">
       {/* Background image */}
       <Image
-        src="/images/hero-bg-main.jpg"
+        src="https://images.pexels.com/photos/1310777/pexels-photo-1310777.jpeg"
         alt=""
         fill
         priority
